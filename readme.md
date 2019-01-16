@@ -5,7 +5,7 @@ Docker project to create a container with Python3, Django and Apache2. All confi
 * docker-compose up
 
     Starts the container named django-apache2
-* Browse to http://localhost:8500
+* Browse to http://localhost:8005
 
 
 See Dockerfile and docker-compose.yml for configuration details.
